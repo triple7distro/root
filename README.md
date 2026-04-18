@@ -1,5 +1,5 @@
 # distro
 hi
-## error codes
-- 0x1f - failed to fetch
-- 0x1i - invalid status
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/triple7distro/root/refs/heads/main/loader.lua"))()
+```
